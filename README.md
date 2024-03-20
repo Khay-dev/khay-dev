@@ -1,7 +1,9 @@
 # 💫 About Me:
-I am Kalu Daniel Obinna a FrontEnd Developer HTML|CSS|Javascript|ReactJs, <br>With a keen eye for detail and beautiful design
-create and maintain a better code base for re-usability
-capable of continuous learning.<br>
+Hi 👋, I'm Daniel 
+
+A passionate frontend developer from Nigeria 👨‍💻
+
+Orchestrating Designs into Code  🚀 <br>
 
 
 ## 🌐 Socials:
